@@ -75,7 +75,7 @@ My issue with coding and art is that I find it very difficult to act on the idea
 ### 🟦 Stage 4
 - Name/Alias: Emma
 - Github account: https://github.com/emmazig
-- Published webpage for stage 4:
+- Published webpage for stage 4: https://emmazig.github.io/exquisite-corpse-stage-4-Hypothetical-Year/
 
 *I wanted to put a playful spin on this stage three sketch, hearing ‘game’ I instantly thought of some sort of fun. The combination of orange and blue from the previous stage really stood out to me, so I drew from these colours and the mountain shape made by the graphs. I have created a short text based game called ‘Orange Mountain’. The user is asked to help find lost oranges as they travel and overcome various obstacles on the mountain.
 I digitally drew the backgrounds I used in this sketch (except for the oranges- I downloaded them from the internet). I used a retro computer font to get that old school computer game feel. 
