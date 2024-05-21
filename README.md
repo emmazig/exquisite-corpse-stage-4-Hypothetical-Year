@@ -73,11 +73,13 @@ My issue with coding and art is that I find it very difficult to act on the idea
 *
 
 ### 🟦 Stage 4
-- Name/Alias:
+- Name/Alias: Emma
 - Github account:
 - Published webpage for stage 4:
 
-*... comments to be added here*
+*I wanted to put a playful spin on this stage three sketch, hearing ‘game’ I instantly thought of fun. The combination of orange and blue from the previous stage really stood out to me, so I drew from these colours and the mountain shape made by the graphs. I have created a short text based game called ‘Orange Mountain’. The user is asked to help find lost oranges as they travel and overcome various obstacles on the mountain.
+I digitally drew the backgrounds I used in this sketch (except for the oranges- I downloaded them from the internet). I used a retro computer font to get that old school computer game feel. 
+It took a bit of trial and error to work out a good way to make the game progress smoothly. I ended up using ‘setTimeout’ and separate functions to make the text change in each section.*
 
 ### 🟪 Stage 5
 - Name/Alias:
